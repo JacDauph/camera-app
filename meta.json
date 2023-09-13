@@ -23,6 +23,54 @@
                     "__v": 0,
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f6078fe0fc7e6bbf2bf042/projects/64fa395d66b9fc17898dd963/assets/64fa5e5766b9fc5e5f8ee98a?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230913%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230913T131139Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4668947ca03574dc1e9c0ecba5dfac76cd3010e30cd26fc0ed4ed83d6301060f528fa4dcbd72358195490ee9191d55b079e00dd74e6842ad04bb48c5001577ab724d6435c91968f4955362c788cf8636f5e0c76f45f63444a036495fc32c7a33bfd64f828db69d976fa9bd2d3124a2b75c13e3cf4e4831ec57bf499ae7d39eeadc3b5e9ccb0dd94c19dd2d2b776ca1ffa4b8132208636a8d1507a34489b5cdd78523170cd475a471179ab98b7ffea91fc60740f3bceed14893f0f03ee63df4add89aa02c4ba11abf80f2320e7cd33b73ad88d093962e1f095e642b4c5eb89ab16e6b31008078c033d5b50e0391c8a2b41ddd6e83e119170151e76d6ed45627f2",
                     "signedUrlExpirationTime": 1694783499215
+                },
+                "65022c4f577a1bac23824e7a": {
+                    "externalStorageType": "GCS",
+                    "_id": "65022c4f577a1bac23824e7a",
+                    "size": "7086",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "sound-off-music-mute-off-sound-speaker-volume-icon-16.png",
+                    "backendURI": "/project/65020778e7428b7606024b2c/getasset/65022c4f577a1bac23824e7a",
+                    "name": "sound-off-music-mute-off-sound-speaker-volume-icon-16.png",
+                    "externalName": "users/64f6078fe0fc7e6bbf2bf042/projects/65020778e7428b7606024b2c/assets/65022c4f577a1bac23824e7a",
+                    "createdAt": "2023-09-13T21:40:31.289Z",
+                    "updatedAt": "2023-09-13T21:40:31.289Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f6078fe0fc7e6bbf2bf042/projects/65020778e7428b7606024b2c/assets/65022c4f577a1bac23824e7a?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230913%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230913T214031Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4cb388fbf805add7502c8dd6bca46f5ddefcd05a0dcef1895727876d60554b2f97b9078b667f2bde955e245ba908f6e622ab4a6031f0d95c758474c205de988309720c21353c8b41f9479b0036adf619e6a49d2315d4454feda644dc009eabcc65a7e06e4862bf4843fbf9367e97fd5bd835501078cf2470801e4d53005cd5da79a341a591b2edf1143a6405790691fc1c50473d6c96b1d3ea783608d4a195d0dfe002d245aeb0db8001f58411f02663b30ed985eb69da4bca9859aceea8abdea025c29f26cb266dfc109c05ceaaeb4d6ea48fe45891b60b6173bc55d8be03b453677a870a84b57c4a458779e8cffb79a70417c2bc73bcc58b41a90fd5687bf1",
+                    "signedUrlExpirationTime": 1694814031323
+                },
+                "65022cc2577a1b0bd7824e85": {
+                    "externalStorageType": "GCS",
+                    "_id": "65022cc2577a1b0bd7824e85",
+                    "size": "17185",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "1055b4ed62f72cf6e62d0b6cb771e470.png",
+                    "backendURI": "/project/65020778e7428b7606024b2c/getasset/65022cc2577a1b0bd7824e85",
+                    "name": "1055b4ed62f72cf6e62d0b6cb771e470.png",
+                    "externalName": "users/64f6078fe0fc7e6bbf2bf042/projects/65020778e7428b7606024b2c/assets/65022cc2577a1b0bd7824e85",
+                    "createdAt": "2023-09-13T21:42:26.862Z",
+                    "updatedAt": "2023-09-13T21:42:26.862Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f6078fe0fc7e6bbf2bf042/projects/65020778e7428b7606024b2c/assets/65022cc2577a1b0bd7824e85?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230913%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230913T214226Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=987a102ae38966258a7d53a050faf6898b441e187dc8a1a22992ad99bf63ff6cd3d800a69000a2ed9386a812c13f9ca4dd1faff7f95c3d5a7fda39214615e49be0a0a19018602e5060675074dda9c3419873c5206cb3f48ff8ae29c15cfe157d75331e2ad819b985ba5097c37ada2c0946b8dcace16152b0f955921c16d32538a55f9c146d04d44d9dc1543159c1825270237eb4e078317e918bd828f167e8412bb7959c99ee56ce7673e89b3a0eaa7cde758f49bbc4ad141082585a8349a2f9d660cfe1e0a85f1104c353d0d91b7ba79edecc379a74fead7ae599cec4cf16ed27bd82499280b0e6b42f0c3eb934110895df1eb98bbcdb44536f8a8b21809e52",
+                    "signedUrlExpirationTime": 1694814146904
+                },
+                "65022f0e2f1ebe15e62beb81": {
+                    "externalStorageType": "GCS",
+                    "_id": "65022f0e2f1ebe15e62beb81",
+                    "size": "81844",
+                    "mimetype": "audio/wav",
+                    "encoding": "7bit",
+                    "originalname": "picture_taken.wav",
+                    "backendURI": "/project/65020778e7428b7606024b2c/getasset/65022f0e2f1ebe15e62beb81",
+                    "name": "picture_taken.wav",
+                    "externalName": "users/64f6078fe0fc7e6bbf2bf042/projects/65020778e7428b7606024b2c/assets/65022f0e2f1ebe15e62beb81",
+                    "createdAt": "2023-09-13T21:52:15.030Z",
+                    "updatedAt": "2023-09-13T21:52:15.030Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f6078fe0fc7e6bbf2bf042/projects/65020778e7428b7606024b2c/assets/65022f0e2f1ebe15e62beb81?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230913%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230913T215215Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=407e3cb20677aaf43df2745f55b22905769568b0200f66a07d13070942b67ef4e125c36a754671ad71e891748ab37a964e819d384be9b7c5cc5a450e4eead84e547876dc27c131b63a767c1db4f9df2ce2c4b295a0fdf2e71d89f8a424e122ee2266ee8c88d925d147e067119a6a2ecceeac4f4d37354669a68bcd0266c07afdf7d4330a31385a1c8779efd2b1e34cb0c49a59e5a35b460405a72863100b9508e3b3fdc86637e1131f56970fb0ffbce8551846ef55a67cf6ec6e028e98571b1fa3200a2199e9ddb1ef9873a7c0c36bd2ad0bb793a85d41a7ad41d3e2fd0fac4577ca8d43d6f01c121136f5b03b935e47d40aaa6ebfd92356e5fdcd754afd6bb5",
+                    "signedUrlExpirationTime": 1694814735069
                 }
             },
             "backendUpgradeVersion": 21,
@@ -115,7 +163,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +212,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -192,7 +240,13 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "efc91469-5e72-4d8d-939f-3f0fc1f6aa91": {
+                    "scope": "APP",
+                    "name": "makeSound",
+                    "screenId": "863dadb3-b467-4d90-8415-27601ccb8346"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
